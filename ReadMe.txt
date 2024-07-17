@@ -1,3 +1,5 @@
+This code was specifically designed to work on the Super Computer at Cranfield University.
+
 Guideline on how to compile and run the kernels on the Crescent environment
 
 This folder contain all the files needed to compile and submit the kernel instructions to the queue. Only the most performing kernels are in theis folde
