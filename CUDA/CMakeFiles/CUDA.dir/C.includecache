@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/scratch/s394369/Small_Scale_Parallel_Programmimg/SSPP_s394369_Source_code/CUDA/mmio.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+mmio.h
+/scratch/s394369/Small_Scale_Parallel_Programmimg/SSPP_s394369_Source_code/CUDA/mmio.h
+
+/scratch/s394369/Small_Scale_Parallel_Programmimg/SSPP_s394369_Source_code/CUDA/mmio.h
+
+/scratch/s394369/Small_Scale_Parallel_Programmimg/SSPP_s394369_Source_code/CUDA/mms.c
+stdio.h
+-
+stdlib.h
+-
+mms.h
+/scratch/s394369/Small_Scale_Parallel_Programmimg/SSPP_s394369_Source_code/CUDA/mms.h
+
+/scratch/s394369/Small_Scale_Parallel_Programmimg/SSPP_s394369_Source_code/CUDA/mms.h
+

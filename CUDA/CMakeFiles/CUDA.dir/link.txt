@@ -1,0 +1,1 @@
+/apps/software/GCCcore/8.3.0/bin/c++  -O3  -rdynamic CMakeFiles/CUDA.dir/mmio.c.o CMakeFiles/CUDA.dir/mms.c.o CMakeFiles/CUDA.dir/CUDA_generated_SSPP_s394369_CUDA.cu.o  -o CUDA -Wl,-Bstatic -lcudart_static -Wl,-Bdynamic -lpthread -ldl -lrt 
